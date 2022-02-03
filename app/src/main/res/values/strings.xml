@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech Converter</string>
+    <string name="heading">Type Here....</string>
+    <string name="say">Say Something....</string>
+</resources>
